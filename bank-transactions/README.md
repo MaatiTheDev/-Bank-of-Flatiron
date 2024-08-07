@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This mini web app allows users to view their recent bank transactions, add new transactions, filter transactions by description, and optionally sort and delete transactions.
+This my own mini web app allows users to view their recent bank transactions, add new transactions, filter transactions by description, and optionally sort and delete transactions.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
